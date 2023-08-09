@@ -1,1 +1,0 @@
-print("Vangel" " " "Vangelo" * 34)
